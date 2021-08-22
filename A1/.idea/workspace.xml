@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1826d9a2-403c-482b-bd3a-d7f22aec2e51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ListTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Wfv6iAlur5jeOooUzAXg5WdTKn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.ListTest.append">
+    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.append" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListTest" />
+      <option name="METHOD_NAME" value="append" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.getError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListTest" />
+      <option name="METHOD_NAME" value="getError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.getRest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListTest" />
+      <option name="METHOD_NAME" value="getRest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListTest.append" />
+        <item itemvalue="JUnit.ListTest" />
+        <item itemvalue="JUnit.ListTest.get" />
+        <item itemvalue="JUnit.ListTest.getError" />
+        <item itemvalue="JUnit.ListTest.getRest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1826d9a2-403c-482b-bd3a-d7f22aec2e51" name="Default Changelist" comment="" />
+      <created>1579141660013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579141660013</updated>
+      <workItem from="1579141661193" duration="251000" />
+      <workItem from="1579553290820" duration="13000" />
+      <workItem from="1579553309794" duration="11854000" />
+      <workItem from="1579640287229" duration="4739000" />
+      <workItem from="1579717280756" duration="7590000" />
+      <workItem from="1579796155121" duration="294000" />
+      <workItem from="1579806349988" duration="35000" />
+      <workItem from="1579807684462" duration="6000" />
+      <workItem from="1579891331291" duration="13000" />
+      <workItem from="1579895496590" duration="54000" />
+      <workItem from="1580161056961" duration="52000" />
+      <workItem from="1580229403063" duration="191000" />
+      <workItem from="1580243609467" duration="73000" />
+      <workItem from="1580244633009" duration="45000" />
+      <workItem from="1580244822928" duration="27000" />
+      <workItem from="1580245929547" duration="13000" />
+      <workItem from="1580328867280" duration="11000" />
+      <workItem from="1580329320779" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="155" width="1319" height="776" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584979560914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="225" y="155" width="1319" height="776" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979560914" />
+    <state x="169" y="140" width="989" height="586" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.786@0.23.1440.786" timestamp="1579639414474" />
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584979499155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979499155" />
+    <state x="421" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579638098877">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="421" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.786@0.23.1440.786" timestamp="1579638098877" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1584979648424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979648424" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579720152593" />
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom/0.23.1440.781@0.23.1440.781" timestamp="1580243682470" />
+    <state width="1147" height="199" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1579724892214" />
+    <state width="1147" height="197" key="GridCell.Tab.0.bottom/0.23.1440.790@0.23.1440.790" timestamp="1579895550096" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1584979648423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979648423" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579720152592" />
+    <state width="1398" height="197" key="GridCell.Tab.0.center/0.23.1440.781@0.23.1440.781" timestamp="1580243682469" />
+    <state width="1147" height="199" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1579724892214" />
+    <state width="1147" height="197" key="GridCell.Tab.0.center/0.23.1440.790@0.23.1440.790" timestamp="1579895550096" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1584979648423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979648423" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579720152592" />
+    <state width="1398" height="197" key="GridCell.Tab.0.left/0.23.1440.781@0.23.1440.781" timestamp="1580243682469" />
+    <state width="1147" height="199" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1579724892213" />
+    <state width="1147" height="197" key="GridCell.Tab.0.left/0.23.1440.790@0.23.1440.790" timestamp="1579895550095" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1584979648424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979648424" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579720152593" />
+    <state width="1398" height="197" key="GridCell.Tab.0.right/0.23.1440.781@0.23.1440.781" timestamp="1580243682469" />
+    <state width="1147" height="199" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1579724892214" />
+    <state width="1147" height="197" key="GridCell.Tab.0.right/0.23.1440.790@0.23.1440.790" timestamp="1579895550096" />
+    <state x="347" y="55" key="SettingsEditor" timestamp="1579634230921">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="347" y="55" key="SettingsEditor/0.23.1440.790@0.23.1440.790" timestamp="1579634230921" />
+    <state x="667" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1584979492601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="298" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979492601" />
+    <state x="500" y="248" key="com.intellij.ide.util.TipDialog/0.23.1440.786@0.23.1440.786" timestamp="1579798186377" />
+    <state x="503" y="18" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579719809581">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="18" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1579719809581" />
+    <state x="503" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.786@0.23.1440.786" timestamp="1579633582116" />
+    <state x="328" y="188" key="run.anything.popup" timestamp="1579640465228">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="328" y="188" key="run.anything.popup/0.23.1440.786@0.23.1440.786" timestamp="1579640465228" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579718223885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1579718223885" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

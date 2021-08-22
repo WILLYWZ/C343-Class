@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="723796e2-c755-48e3-ba5a-4690d06cd948" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../A1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/tests/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A1/tests/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/src/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A3/src/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../L2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1X5oM07gfB2dIJT38aeS6Rc0cwu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StackListTest">
+    <configuration name="DequeListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DequeListTest.addFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DequeListTest" />
+      <option name="METHOD_NAME" value="addFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTwoStacksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueueTwoStacksTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SetListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StackListTest" />
+        <item itemvalue="JUnit.SetListTest" />
+        <item itemvalue="JUnit.DequeListTest" />
+        <item itemvalue="JUnit.DequeListTest.addFirst" />
+        <item itemvalue="JUnit.QueueTwoStacksTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="723796e2-c755-48e3-ba5a-4690d06cd948" name="Default Changelist" comment="" />
+      <created>1579704714820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579704714820</updated>
+      <workItem from="1579704716041" duration="1084000" />
+      <workItem from="1580345267034" duration="488000" />
+      <workItem from="1580346029181" duration="2448000" />
+      <workItem from="1580350966102" duration="624000" />
+      <workItem from="1580406902337" duration="125000" />
+      <workItem from="1580950056553" duration="23000" />
+      <workItem from="1580951018600" duration="39000" />
+      <workItem from="1580952402962" duration="105000" />
+      <workItem from="1580954222453" duration="11000" />
+      <workItem from="1584981024193" duration="63000" />
+      <workItem from="1584981116933" duration="358000" />
+      <workItem from="1584981769757" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1584981086378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584981086378" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.790@0.23.1440.790" timestamp="1580351591261" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1584981086378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584981086378" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.790@0.23.1440.790" timestamp="1580351591260" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1584981086378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584981086378" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.790@0.23.1440.790" timestamp="1580351591260" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1584981086378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584981086378" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.790@0.23.1440.790" timestamp="1580351591260" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584981470779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584981470779" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584981284582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584981284582" />
+    <state x="499" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1584981771840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="296" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584981771840" />
+    <state x="374" y="248" key="com.intellij.ide.util.TipDialog/0.23.1440.790@0.23.1440.790" timestamp="1580350966763" />
+    <state x="374" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1580406901545" />
+    <state x="297" y="23" width="1014" height="761" key="dock-window-1" timestamp="1580954232687">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="297" y="23" width="1014" height="761" key="dock-window-1/0.23.1440.793@0.23.1440.793" timestamp="1580954232687" />
+  </component>
+</project>

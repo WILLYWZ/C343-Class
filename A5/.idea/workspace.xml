@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48b830e3-da6c-487a-bdee-c4691011c84f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../A1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/tests/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A1/tests/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3/src/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A3/src/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="A5" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Xz5c7U3u25wALnXxe2NgHhhxwU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyLineWrapTest.test3">
+    <configuration name="LineWrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LineWrapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLineWrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLineWrapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLineWrapTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLineWrapTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLineWrapTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLineWrapTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLineWrapTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLineWrapTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyLineWrapTest.test3" />
+        <item itemvalue="JUnit.MyLineWrapTest.test2" />
+        <item itemvalue="JUnit.MyLineWrapTest.test1" />
+        <item itemvalue="JUnit.MyLineWrapTest" />
+        <item itemvalue="JUnit.LineWrapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48b830e3-da6c-487a-bdee-c4691011c84f" name="Default Changelist" comment="" />
+      <created>1581528605992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581528605992</updated>
+      <workItem from="1581528609922" duration="1700000" />
+      <workItem from="1582036166187" duration="2064000" />
+      <workItem from="1582052003191" duration="4696000" />
+      <workItem from="1582058237226" duration="289000" />
+      <workItem from="1582058569964" duration="5417000" />
+      <workItem from="1582129561157" duration="26827000" />
+      <workItem from="1582163326327" duration="5017000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="124" width="1221" height="589" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582140206366">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="100" y="123" width="1221" height="586" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.786@0.23.1440.786" timestamp="1582056558864" />
+    <state x="100" y="124" width="1221" height="589" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.790@0.23.1440.790" timestamp="1582140206366" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1584979967180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979967180" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1582246170685" />
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom/0.23.1440.790@0.23.1440.790" timestamp="1582162650707" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1584979967180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979967180" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1582246170685" />
+    <state width="1398" height="249" key="GridCell.Tab.0.center/0.23.1440.790@0.23.1440.790" timestamp="1582162650706" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1584979967180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979967180" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1582246170681" />
+    <state width="1398" height="249" key="GridCell.Tab.0.left/0.23.1440.790@0.23.1440.790" timestamp="1582162650706" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1584979967180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979967180" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1582246170685" />
+    <state width="1398" height="249" key="GridCell.Tab.0.right/0.23.1440.790@0.23.1440.790" timestamp="1582162650707" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom" timestamp="1582162650708">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1379" height="249" key="GridCell.Tab.1.bottom/0.23.1440.786@0.23.1440.786" timestamp="1582058189045" />
+    <state width="1398" height="249" key="GridCell.Tab.1.bottom/0.23.1440.790@0.23.1440.790" timestamp="1582162650708" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center" timestamp="1582162650707">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1379" height="249" key="GridCell.Tab.1.center/0.23.1440.786@0.23.1440.786" timestamp="1582058189044" />
+    <state width="1398" height="249" key="GridCell.Tab.1.center/0.23.1440.790@0.23.1440.790" timestamp="1582162650707" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left" timestamp="1582162650707">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1379" height="249" key="GridCell.Tab.1.left/0.23.1440.786@0.23.1440.786" timestamp="1582058189044" />
+    <state width="1398" height="249" key="GridCell.Tab.1.left/0.23.1440.790@0.23.1440.790" timestamp="1582162650707" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right" timestamp="1582162650707">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state width="1379" height="249" key="GridCell.Tab.1.right/0.23.1440.786@0.23.1440.786" timestamp="1582058189044" />
+    <state width="1398" height="249" key="GridCell.Tab.1.right/0.23.1440.790@0.23.1440.790" timestamp="1582162650707" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1584979928587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979928587" />
+    <state x="487" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1584979981944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="300" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584979981944" />
+    <state x="365" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.786@0.23.1440.786" timestamp="1582163328911" />
+    <state x="498" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582159779382">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="498" y="152" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.790@0.23.1440.790" timestamp="1582159779382" />
+  </component>
+</project>
